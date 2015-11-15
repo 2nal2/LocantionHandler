@@ -4,8 +4,8 @@
     "connector": "memory",
     "file": "db.json"
   },
-  "LocationBD": {
-    "name": "LocationBD",
-    "connector": "mongodb"
+  "LocationBD":{
+    "connector": "mongodb",
+    "url": "mongodb://<dbuser>:<dbpassword>@ds053774.mongolab.com:53774/heroku_l9tj629s"
   }
 }
