@@ -6,6 +6,6 @@
   },
   "LocationBD":{
     "connector": "mongodb",
-    "url": "mongodb://2nal2:Nintendop2p@ds053774.mongolab.com:53774/heroku_l9tj629s"
+    "url": "mongodb://2nal2:12345@ds053774.mongolab.com:53774/heroku_l9tj629s"
   }
 }
