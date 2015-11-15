@@ -21,5 +21,8 @@
     "type": "",
     "url": ""
   },
+  "engines": {
+        "node": "0.12.x"
+    },
   "description": "LocationHandler"
 }
